@@ -8,13 +8,20 @@ Project 0 Getting Started
 * Tested on: Windows 10, i7-12700 @ 2100Mhz (Virtual PC)
 
 Build CUDA Project
+
 ![](images/Capture.PNG)
 
+
 Analyze
+
 ![](images/Capture2.PNG)
 
+
 Nsight Debugging
+
 ![](images/Capture3.PNG)
 
+
 WebGL
+
 ![](images/Capture4.PNG)
