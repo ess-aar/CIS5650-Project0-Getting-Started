@@ -5,7 +5,7 @@ Project 0 Getting Started
 
 * Sakshi Rathore
   * [LinkedIn](https://www.linkedin.com/in/rathoresakshi/), [personal website](https://essaar.github.io)
-* Tested on: (TODO) Windows 22, i7-2222 @ 2.22GHz 22GB, GTX 222 222MB (Moore 2222 Lab)
+* Tested on: Windows 10, i7-12700 @ 2100Mhz (Virtual PC)
 
 ### (TODO: Your README)
 
